@@ -1,5 +1,5 @@
 [package]
-name = "fh4data"
+name = "forza_horizon4_data"
 version = "0.1.0"
 authors = ["wulu <wulu90@outlook.com>"]
 edition = "2018"
